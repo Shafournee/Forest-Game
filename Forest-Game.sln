@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forest-Game", "Assembly-CSharp.csproj", "{60D5C54E-EDAB-2B19-4634-7C9685C11F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D5C54E-EDAB-2B19-4634-7C9685C11F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D5C54E-EDAB-2B19-4634-7C9685C11F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D5C54E-EDAB-2B19-4634-7C9685C11F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D5C54E-EDAB-2B19-4634-7C9685C11F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
